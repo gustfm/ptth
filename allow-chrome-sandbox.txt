@@ -1,0 +1,4 @@
+cd /home/gus/workspace/personal/ptth/node_modules/electron/dist
+sudo chown root:root chrome-sandbox
+sudo chmod 4755 chrome-sandbox
+cd ....
