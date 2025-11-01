@@ -1,6 +1,5 @@
 <template>
-    <h1>💖 Hello World!</h1>
-    <p>Welcome to your Electron application.</p>
+    <div class="text-3xl font-bold">Hello Tailwind + Vue + Electron!</div>
 </template>
 
 <script setup>
